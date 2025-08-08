@@ -94,6 +94,3 @@ def recommend():
         comparison_data=comparison_data,
         metrics=metrics
     )
-
-if __name__ == '__main__':
-    app.run(debug=True)
